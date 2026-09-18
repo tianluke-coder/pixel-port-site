@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">未来商店概念封面</title><desc id="desc">一座温暖明亮的抽象数字商店</desc>
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12264a"/><stop offset="1" stop-color="#3a1f68"/></linearGradient><linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7be0d1"/><stop offset="1" stop-color="#f6c87a"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#sky)"/><circle cx="930" cy="150" r="92" fill="#f8dc8b" opacity=".9"/><path d="M0 530 260 410l200 105 230-165 240 145 270-110v335H0Z" fill="url(#floor)" opacity=".9"/>
+  <g fill="none" stroke="#ecfbff" stroke-width="6" opacity=".8"><path d="M170 500V250h250v250M470 500V170h260v330M780 500V280h245v220"/><path d="M90 575h1040"/></g>
+  <g fill="#fef9e6"><rect x="220" y="315" width="150" height="70" rx="12"/><rect x="525" y="250" width="150" height="70" rx="12"/><rect x="832" y="340" width="145" height="70" rx="12"/></g>
+  <text x="80" y="105" fill="#fff" font-family="system-ui, sans-serif" font-size="46" font-weight="700">FUTURE STORE</text><text x="82" y="150" fill="#9de6dc" font-family="system-ui, sans-serif" font-size="23">A world imagined by Student001</text>
+</svg>
